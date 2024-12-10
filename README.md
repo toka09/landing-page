@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # landing-page
-=======
 ## Introduction
 
 This project is a simple landing page created as part of [The Odin Project](https://www.theodinproject.com) curriculum. It serves as a practical exercise to build a fully functional web page using fundamental HTML and CSS skills.
@@ -26,4 +24,3 @@ The design focuses on creating a clean, visually appealing layout, featuring a n
 ## How to Run
 1. Open `index.html` in any modern web browser.
 2. View and interact with the page.
->>>>>>> 3773841 (Add images, index.html and style.css)
